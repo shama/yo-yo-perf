@@ -39,7 +39,7 @@ var N = 100;
       benchmarkLoop(animate)
     }, 300)
   }
-  run()
+  //run()
 }());
 
 // With the future transform
@@ -95,7 +95,7 @@ var N = 100;
       benchmarkLoop(animate)
     }, 300)
   }
-  //run()
+  run()
 }());
 
 window.timeout = null;
